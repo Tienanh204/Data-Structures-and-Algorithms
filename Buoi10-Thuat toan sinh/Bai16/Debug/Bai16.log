@@ -1,0 +1,3 @@
+﻿  16.cpp
+E:\Buoi10-Thuat toan sinh\Bai16\16.cpp(39,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Bai16.vcxproj -> E:\Buoi10-Thuat toan sinh\Debug\Bai16.exe

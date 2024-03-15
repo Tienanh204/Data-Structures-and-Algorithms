@@ -1,0 +1,51 @@
+#include<iostream>
+#include<vector>
+#include<string>
+#include<math.h>
+#include<queue>
+#include<sstream>
+#include<algorithm>
+#include<iomanip>
+using namespace std;
+int n, m;
+bool visited[10005];
+vector<int> ke[1005];
+int parent[1005];
+
+void DFS(int u)
+{
+	visited[u] = true;
+	for (int v : ke[u])
+	{
+		if (!visited[v])
+		{
+			DFS(v);
+		}
+	}
+}
+
+int tplt()
+{
+	int dem = 0;
+	for (int i = 1; i <= n; i++)
+	{
+		if (!visited[i])
+		{
+			++dem;
+			DFS(i);
+		}
+	}
+	return dem;
+}
+
+int main()
+{
+    cin >> n >> m;
+	for (int i = 0; i < m; i++)
+	{
+		int x, y; cin >> x >> y;
+		ke[x].push_back(y);
+		ke[y].push_back(x);
+	}
+	cout << tplt() << endl;
+}

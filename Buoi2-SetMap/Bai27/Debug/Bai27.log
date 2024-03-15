@@ -1,0 +1,5 @@
+﻿  27.cpp
+E:\CTDL&GT(28Tech)\Buoi2-SetMap\Bai27\27.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL&GT(28Tech)\Buoi2-SetMap\Bai27\27.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL&GT(28Tech)\Buoi2-SetMap\Bai27\27.cpp(52,10): warning C4018: '<': signed/unsigned mismatch
+  Bai27.vcxproj -> E:\CTDL&GT(28Tech)\Buoi2-SetMap\Debug\Bai27.exe

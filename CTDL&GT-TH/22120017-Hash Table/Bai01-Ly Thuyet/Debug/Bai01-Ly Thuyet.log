@@ -1,0 +1,94 @@
+﻿  01.cpp
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(26,17): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(26,17): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(26,25): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(37): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(37): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(37): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(41,14): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(41,14): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(41,20): error C2232: '->hashNode::key': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(42,14): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(42,14): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(42,22): error C2232: '->hashNode::value': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(43,14): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(43,14): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(43,23): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(51,21): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(51,21): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(51,30): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(51,45): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(51,45): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(51,51): error C2232: '->hashNode::key': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(59): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(59): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(59): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(59): error C2232: '->hashNode::key': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(61,15): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(61,15): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(61,24): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(70,21): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(70,21): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(70,30): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(70,45): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(70,45): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(70,51): error C2232: '->hashNode::key': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(77): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(77): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(77): error C2232: '->hashNode::filled': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(77): error C2232: '->hashNode::key': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(79,22): error C2819: type 'hashNode' does not have an overloaded member 'operator ->'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(8,8): message : see declaration of 'hashNode'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(79,22): message : did you intend to use '.' instead?
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(79,29): error C2232: '->hashNode::value': left operand has 'struct' type, use '.'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,8): error C2665: 'std::vector<hashNode,std::allocator<hashNode>>::push_back': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\vector(939,23): message : could be 'void std::vector<hashNode,std::allocator<hashNode>>::push_back(_Ty &&)'
+          with
+          [
+              _Ty=hashNode
+          ]
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,8): message : 'void std::vector<hashNode,std::allocator<hashNode>>::push_back(_Ty &&)': cannot convert argument 1 from 'hn' to '_Ty &&'
+          with
+          [
+              _Ty=hashNode
+          ]
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,19): message : Reason: cannot convert from 'hn' to '_Ty'
+          with
+          [
+              _Ty=hashNode
+          ]
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,19): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\vector(935,23): message : or       'void std::vector<hashNode,std::allocator<hashNode>>::push_back(const _Ty &)'
+          with
+          [
+              _Ty=hashNode
+          ]
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,8): message : 'void std::vector<hashNode,std::allocator<hashNode>>::push_back(const _Ty &)': cannot convert argument 1 from 'hn' to 'const _Ty &'
+          with
+          [
+              _Ty=hashNode
+          ]
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,19): message : Reason: cannot convert from 'hn' to 'const _Ty'
+          with
+          [
+              _Ty=hashNode
+          ]
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,19): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(102,8): message : while trying to match the argument list '(hn)'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(110,2): error C2664: 'void display(std::vector<hn,std::allocator<hn>>)': cannot convert argument 1 from 'std::vector<hashNode,std::allocator<hashNode>>' to 'std::vector<hn,std::allocator<hn>>'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(110,10): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(87,6): message : see declaration of 'display'
+E:\22120017-Hash Table\Bai01-Ly Thuyet\01.cpp(110,2): message : while trying to match the argument list '(std::vector<hashNode,std::allocator<hashNode>>)'

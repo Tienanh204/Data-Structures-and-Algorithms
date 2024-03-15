@@ -1,0 +1,5 @@
+﻿  07.cpp
+E:\Buoi14-Tham lam\Bai07\07.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+E:\Buoi14-Tham lam\Bai07\07.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+E:\Buoi14-Tham lam\Bai07\07.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+  Bai07.vcxproj -> E:\Buoi14-Tham lam\Debug\Bai07.exe

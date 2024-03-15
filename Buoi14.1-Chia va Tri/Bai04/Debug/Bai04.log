@@ -1,0 +1,3 @@
+﻿  04.cpp
+E:\Buoi14.1-Chia va Tri\Bai04\04.cpp(8,14): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Bai04.vcxproj -> E:\Buoi14.1-Chia va Tri\Debug\Bai04.exe

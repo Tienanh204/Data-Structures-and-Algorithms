@@ -1,0 +1,3 @@
+﻿  01.cpp
+E:\22120017_Week02\Bai01\01.cpp(41,9): warning C4101: 'time_used': unreferenced local variable
+  Bai01.vcxproj -> E:\22120017_Week02\Debug\Bai01.exe

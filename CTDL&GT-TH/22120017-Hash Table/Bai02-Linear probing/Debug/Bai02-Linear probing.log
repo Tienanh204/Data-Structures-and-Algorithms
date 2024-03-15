@@ -1,0 +1,6 @@
+﻿  02.cpp
+E:\CTDL&GT-TH\22120017-Hash Table\Bai02-Linear probing\02.cpp(58,31): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+E:\CTDL&GT-TH\22120017-Hash Table\Bai02-Linear probing\02.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL&GT-TH\22120017-Hash Table\Bai02-Linear probing\02.cpp(82,36): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\CTDL&GT-TH\22120017-Hash Table\Bai02-Linear probing\02.cpp(139): warning C4715: 'Search': not all control paths return a value
+  Bai02-Linear probing.vcxproj -> E:\CTDL&GT-TH\22120017-Hash Table\Debug\Bai02-Linear probing.exe

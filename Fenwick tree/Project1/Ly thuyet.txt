@@ -1,0 +1,10 @@
+﻿---------- Lý thuyết về cây Fenwick (Binary index tree) ----------
+
++Biểu diễn số âm trong máy tính ta dùng phép bù 2
++Xây dựng 1 cây Bits để lưu tổng các phần tử trên 1 đoạn nào đó
+của mảng a[] ban đầu
+
+         { a[i], i lẻ
+BIT[i] = { a[1]+a[2]+...+a[i], i là lũy thừa của 2
+         { a[i]+a[i-1]+..+a[i-n], n=2^k, với k là vị trí của bits 1 đầu tiên tính từ phải -> trái
+Tham khảo: https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/FenwickTree.java#L28

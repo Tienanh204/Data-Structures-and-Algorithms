@@ -1,0 +1,6 @@
+﻿  06.cpp
+E:\Buoi5-String(Nang cao)\Bai06\06.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+E:\Buoi5-String(Nang cao)\Bai06\06.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+E:\Buoi5-String(Nang cao)\Bai06\06.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+E:\Buoi5-String(Nang cao)\Bai06\06.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+  Bai06.vcxproj -> E:\Buoi5-String(Nang cao)\Debug\Bai06.exe

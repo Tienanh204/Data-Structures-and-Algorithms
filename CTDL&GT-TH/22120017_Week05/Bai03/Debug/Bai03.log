@@ -1,0 +1,6 @@
+﻿  03.cpp
+E:\22120017_Week05\Bai03\03.cpp(17,11): warning C4018: '<': signed/unsigned mismatch
+E:\22120017_Week05\Bai03\03.cpp(17,27): warning C4018: '<': signed/unsigned mismatch
+E:\22120017_Week05\Bai03\03.cpp(28,11): warning C4018: '<': signed/unsigned mismatch
+E:\22120017_Week05\Bai03\03.cpp(32,11): warning C4018: '<': signed/unsigned mismatch
+  Bai03.vcxproj -> E:\22120017_Week05\Debug\Bai03.exe

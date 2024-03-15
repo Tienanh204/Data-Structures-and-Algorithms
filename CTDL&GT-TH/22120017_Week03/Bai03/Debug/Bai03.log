@@ -1,0 +1,4 @@
+﻿  03.cpp
+E:\CTDL&GT-TH\22120017_Week03\Bai03\03.cpp(170,7): warning C4101: 'data': unreferenced local variable
+E:\CTDL&GT-TH\22120017_Week03\Bai03\03.cpp(131): warning C4715: 'findMax': not all control paths return a value
+  Bai03.vcxproj -> E:\CTDL&GT-TH\22120017_Week03\Debug\Bai03.exe
